@@ -1,0 +1,57 @@
+
+ 
+ h1 {font-family: 'Unbounded';}
+ h1 {font-style: normal;}
+ h1 {font-weight: 700;}
+ h1 {color: #3B6362;}
+
+ h2 {font-family: 'Times';}
+ h2 {font-style: normal;}
+ h2 {font-size: 25pt;}
+ h2 {font-weight: 700;}
+ h2 {color: #F1F1F3}
+ 
+ h3 {color: #F1F1F3}
+ h3 {font-size: 23pt;}
+ h4 {color: #F1F1F3}
+ h4 {font-size: 20pt;}
+ h5 {color: #F1F1F3}
+ h5 {font-size: 18pt;}
+ h6 {color: #F1F1F3}
+ h6 {font-size: 15pt;}
+ 
+ p  {color: dimgrey;}
+ p  {font-size: 20pt;}
+ pre {color:#3B6362}
+ pre {font-size: 20pt;}
+ ol {color:#B07265}
+ ol {font-size: 20pt;}
+ ul {font-size: 20pt;}
+ a {color:#F1F1F3}
+ body {background-color: #B5C5BB;}
+
+  
+.altpop {
+    color:royalblue;
+}
+.indierock{
+    color:green;
+}
+.folk {
+    color:wheat;
+}
+.indiefolk {
+    color:goldenrod;
+}
+.indie {
+    color:peachpuff;
+}
+
+img {
+  border: 10px solid wheat;
+}
+.shape {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(90deg, rgba(0,132,172,1) 0%, rgba(38,255,123,1) 46%, rgba(31,0,255,1) 96%);
+  }
